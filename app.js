@@ -13,7 +13,7 @@ if (minutes < 10) {
 if (seconds < 10) {
   seconds = "0" + seconds;
 }
-
+  
 document.getElementById('hour').innerHTML = hours;
 document.getElementById('minute').innerHTML = ":" + minutes;
 document.getElementById('second').innerHTML = ":" + seconds;
