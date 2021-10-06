@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: white;
+}
+
+
+.main {
+  width: 400px;
+  height: 175px;
+  margin: 300px auto;
+  position: relative;
+  padding: 30px;
+}
+
+.main::after {
+  content: '';
+  position: absolute;
+  top: -5px;
+  left: -5px;
+  right: -5px;
+  bottom: -5px;
+  background: linear-gradient(45deg, #ffd800, #ff5520, #750cf2, #0cbcf2);
+  z-index: -1;
+  
+}
+
+.main::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(45deg, #ffd800, #ff5520, #750cf2, #0cbcf2);
+  z-index: -2;
+  filter: blur(40px);
+}
+
+.badge {
+  width: 96px;
+  background: #e66357;
+  color: white;
+  padding: 5px 10px;
+  font-family: sans-serif;
+  font-weight: bold;
+  position: absolute;
+  top: -15px;
+  left: 40%;
+}
+
+.clock {
+  background: #EBEBEB;
+  text-align: center;
+  font-size: 55px;
+  height: 100%;
+  padding-top: 25px;
+  font-family: Orbitron;
+  border-radius: 4px;
+}
+
