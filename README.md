@@ -12,3 +12,6 @@ A simple digital clock displaying military time or a 24-hour clock.
 The clock is one of the most important devices in civilization. 
 Everything we know is dependent on time, whether it be your everyday routine, TV programming or travel.
 
+## Live Preview
+
+https://aqeelahcodes.github.io/24-hour-clock/
