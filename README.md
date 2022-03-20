@@ -1,4 +1,4 @@
-# 24-Hour Clock
+# Digital 24-Hour Clock
 A simple digital clock displaying military time or a 24-hour clock.
 
 ## Languages used: 
