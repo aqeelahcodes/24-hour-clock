@@ -20,3 +20,5 @@ Everything we know is dependent on time, whether it be your everyday routine, TV
 
 ## Live Preview
 https://aqeelahcodes.github.io/24-hour-clock/
+
+![image](https://user-images.githubusercontent.com/70718104/159174989-beea95e7-2c94-4150-bb50-2992b5fac165.png)
