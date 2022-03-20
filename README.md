@@ -1,6 +1,9 @@
 # 24-Hour Clock
 A simple digital clock displaying military time or a 24-hour clock.
 
+## Languages used: 
+HTML | CSS | JavaScript
+
 ## Steps:
 - Step 1: Ran IDE Visual Studio Code with its built-in command line to create 1 folder containing 3 files index.html, style.css, and app.js   
 - Step 2: In HTML designed basic containers for 3 sections of the page and used other elements and attributes for targeting in CSS and JavaScript 
